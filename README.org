@@ -1,0 +1,10 @@
+* ziz
+
+An ad hoc Quicklisp distribution
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/yitzchak/ziz.git   |
+| commit  | 0232d0b  |
+| systems | ziz |
+|---------+-------------------------------------------|
+
